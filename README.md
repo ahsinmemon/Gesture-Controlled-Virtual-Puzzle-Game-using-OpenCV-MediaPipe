@@ -18,7 +18,7 @@ Built using **OpenCV**, **MediaPipe**, and **cvzone**.
 ---
 ## Demo GIF
 
-![Demo](Assets/demo.gif)
+![Demo](Assets/PuzzlePieces/demo.gif)
 
 ---
 
